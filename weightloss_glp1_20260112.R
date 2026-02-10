@@ -5,7 +5,7 @@ pacman::p_load(gridExtra, cobalt, table1, FSA, purrr, nortest, showtext, stringr
 # ========================
 # input data                    
 # ========================
-setwd("/Users/clover_teoh/Documents/cofit/GLP_1_成效分析/glp1_compare_update_20260114")
+setwd("/Users/clover_teoh/Documents/cofit/GLP_1_成效分析/glp1_compare_paper_20260114")
 getwd()
 
 glp1_data <- read.csv("glp_1_users_20260108.csv")
@@ -540,15 +540,15 @@ summary(genesis_data_2025_3t_wide[, c("wl_w8", "wl_w16", "wl_w24",
 colors <- c(
     "Genesis (20190901-20260108)" = "#FF7F00",
     "Genesis (20250101-20260108)" = "#FFAE42",
-    "Mounjaro 5mg"                = "#92c5de",
-    "Mounjaro 10mg"               = "#4393c3",
-    "Mounjaro 15mg"               = "#2166ac",
+    "Mounjaro 2.5 to 5mg"         = "#92c5de",
+    "Mounjaro 2.5 to 10mg"        = "#4393c3",
+    "Mounjaro 2.5 to 15mg"        = "#2166ac",
     "Ozempic 0.5mg"               = "#a6dba0",
     "Ozempic 1.0mg"               = "#1b7837",
     "Rybelsus"                    = "#DC0000",
     "Saxenda 1.8mg"               = "#e7d4e8",
     "Saxenda 3.0mg"               = "#c2a5cf",
-    "Wegovy"                      = "#f4a582"
+    "Wegovy  0.25 to 2.4mg"      = "#f4a582"
   )  
   
 

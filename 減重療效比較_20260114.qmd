@@ -7,11 +7,12 @@ format:
     page-layout: full
     toc: false
 ---
+
 ## 說明
 ### 使用資料：
 - 初日診所 （2025/01/01 - 2026/01/08）
 - 初日診所 （2019/09/01 - 2026/01/08）
-- 各paper
+- 各paper   [（羿清整理的資料）](https://docs.google.com/spreadsheets/d/1KYAXwFJq18Us8SZGVTWGE_kQ0Sft_dnyoqTNJr_QRhU/edit?usp=sharing)
 
 ### 初日診所資料納入條件：
 - 有參加3次線上團班且3次8週療程間隔時間不超過60天
@@ -29,14 +30,17 @@ format:
 |[SCALE, JAMA Network](https://jamanetwork.com/journals/jama/fullarticle/2428956#note-JOI150093-1)                             |Saxenda 3.0mg               |Liraglutide (GLP-1)      |3.0mg, Calorie restricted (-500kcal) Fat 30% Protein 20%, Carb 50%.  Physical activity 150mins/week                                                          |Overweight/Obese with T2DM |  324|
 |[SUSTAIN 1, Lancet](https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S221385871730013X?returnurl=null&referrer=null)                               |Ozempic (0.5mg)             |Semaglutide (GLP-1)      |                                                                                                                                                             |T2DM                       |  128|
 |[SUSTAIN 1, Lancet](https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S221385871730013X?returnurl=null&referrer=null)                               |Ozempic (1.0mg)             |Semaglutide (GLP-1)      |                                                                                                                                                             |T2DM                       |  130|
-|[STEP 1, The New England Journal of Medicine](https://www.nejm.org/doi/10.1056/NEJMoa2032183?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)     |Wegovy                      |Semaglutide (GLP-1)      |Initiate dose: 0.25mg, increased every 4 week until 2.4mg.  Counseling sessions every 4 week.  Calorie restricteed (-500kcal) Physical activity 150mins/week |Overweight/Obese           | 1306|
-|[SURMOUNT 1, The New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2206038#ap2) |Mounjaro 5mg                |Tirzepatide (GLP-1+GIP)  |5mg QW, Calorie restricted (-500kcal). Fat 30% Protein 20%, Carb 50% Physical activity 150mins/week.                                                         |Overweight/Obese           |  630|
-|[SURMOUNT 1, The New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2206038#ap2) |Mounjaro 10mg               |Tirzepatide (GLP-1+GIP)  |10mg QW, Calorie restricted (-500kcal). Fat 30% Protein 20%, Carb 50% Physical activity 150mins/week.                                                        |Overweight/Obese           |  636|
-|[SURMOUNT 1, The New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2206038#ap2) |Mounjaro 15mg               |Tirzepatide (GLP-1+GIP)  |15mg QW, Calorie restricted (-500kcal). Fat 30% Protein 20%, Carb 50% Physical activity 150mins/week.                                                        |Overweight/Obese           |  630|
+|[STEP 1, The New England Journal of Medicine](https://www.nejm.org/doi/10.1056/NEJMoa2032183?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)     |Wegovy      (0.25mg-> 2.4mg)                 |Semaglutide (GLP-1)      |Initiate dose: 0.25mg, increased every 4 week until 2.4mg.  Counseling sessions every 4 week.  Calorie restricteed (-500kcal) Physical activity 150mins/week |Overweight/Obese           | 1306|
+|[SURMOUNT 1, The New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2206038#ap2) |Mounjaro 5mg (2.5mg->5mg)               |Tirzepatide (GLP-1+GIP)  |5mg QW, Calorie restricted (-500kcal). Fat 30% Protein 20%, Carb 50% Physical activity 150mins/week.                                                         |Overweight/Obese           |  630|
+|[SURMOUNT 1, The New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2206038#ap2) |Mounjaro 10mg (2.5mg->10mg)               |Tirzepatide (GLP-1+GIP)  |does escalation 2.5mg every 4 week, up to 10mg by week 12, 10mg QW, Calorie restricted (-500kcal). Fat 30% Protein 20%, Carb 50% Physical activity 150mins/week.                                                        |Overweight/Obese           |  636|
+|[SURMOUNT 1, The New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2206038#ap2) |Mounjaro 15mg (2.5mg->15mg)               |Tirzepatide (GLP-1+GIP)  |does escalation 2.5mg every 4 week, up to 15mg by week 20, 15mg QW, Calorie restricted (-500kcal). Fat 30% Protein 20%, Carb 50% Physical activity 150mins/week.                                                        |Overweight/Obese           |  630|
 |[PIONEER 4, Lancet](https://www.sciencedirect.com/science/article/pii/S0140673619312711?via%3Dihub)                               |Rybelsus                    |Oral Semaglutide (GLP-1) |                                                                                                                                                             |T2DM                       |  285|
 
+### SURMOUNT-1 的Mounjaro施打為漸進式增加劑量，如下圖所示：
+<img src="Mounjaro_SURMOUNT-1_study_design.png" width="70%">
 
 
+## 初日診所和各paper的介入方式整理
 ### 減重成效比較 (%)
 <iframe src="glp1_weight_loss_pct.html" width="100%" height="600px"></iframe>
 
