@@ -589,7 +589,7 @@ p <- plot_ly(data = paper_data_long,
              )) %>%
   layout(
     title = list(
-      text = "<b>Weight Loss (%)</b><br><sup>Different Drug + Lifestyle vs. Genesis</sup>",
+      text = "<b>Weight Loss (%)</b><br><sup>Pharma-Led GLP-1 Trials vs. Genesis Integrated Multimodal Care</sup>",
       x = 0.5,
       xanchor = 'center'
     ),
@@ -674,7 +674,7 @@ p_2 <- plot_ly(data = paper_data_long_kg,
              )) %>%
   layout(
     title = list(
-      text = "<b>Weight Loss (kg)</b><br><sup>Different Drug + Lifestyle vs. Genesis</sup>",
+      text = "<b>Weight Loss (kg)</b><br><sup>Pharma-Led GLP-1 Trials vs. Genesis Integrated Multimodal Care</sup>",
       x = 0.5,
       xanchor = 'center'
     ),
